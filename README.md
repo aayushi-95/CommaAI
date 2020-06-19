@@ -15,5 +15,3 @@ _Process_
 9) Finally from the hf factor generated we predict speef for the test video and save it in a text file.
 
 ![](https://github.com/aayushi-95/CommaAI/blob/master/images/Figure_1.PNG) ![](https://github.com/aayushi-95/CommaAI/blob/master/images/Figure_1-1.PNG)
-
-![](https://github.com/aayushi-95/CommaAI/blob/master/images/Capt1ure.PNG)
